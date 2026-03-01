@@ -1,1 +1,1 @@
-rython-telegram-bot==21.6
+rython-telegram-bot==20.6
